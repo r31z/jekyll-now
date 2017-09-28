@@ -1,6 +1,7 @@
 ---
 layout: post
 title: A Front End Developer is Aware
+categories: [Frontend Development]
 ---
 
 One idea that has lodged itself into my brain recently (largely from this panel discussion) is how a front end developer needs to be aware. In a general sense, the front end developer is positioned in the middle of lots of other jobs. Everybody involved in a web team ends up talking with the front end developers. That makes sense. The front end developers create the actual thing people interact with. Everything comes together with the front end developer. Perhaps that's why it's such a fun job!

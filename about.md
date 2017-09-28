@@ -12,7 +12,7 @@ HTML, CSS, JavaScript posts (sharing while learning).<br />
 
 🖱️ Frontend developer <br />
 💻 Web content editor <br />
-🏊‍♀️ Amateur swimmer <br />
+🏊‍ Amateur swimmer <br />
 👨‍👩‍👧 Family man<br />
 
 ### Contact me

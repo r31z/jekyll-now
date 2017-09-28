@@ -8,12 +8,12 @@ Frontend blog articles (REMIX)
 
 ### More Information
 
-HTML, CSS, JavaScript posts
-I share what I learn 
-🖱️ Frontend developer 
-💻 Web content editor 
-🏊‍♀️ Amateur swimmer 
-👨‍👩‍👧 Family man
+HTML, CSS, JavaScript posts (sharing while learning).<br />
+
+🖱️ Frontend developer <br />
+💻 Web content editor <br />
+🏊‍♀️ Amateur swimmer <br />
+👨‍👩‍👧 Family man<br />
 
 ### Contact me
 

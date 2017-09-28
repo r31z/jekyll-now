@@ -29,7 +29,8 @@ The content lives there. The content must be in good shape. The front end develo
 ## A front end developer is aware of testing. 
 So many kinds! Integration testing. Regression testing. User testing!
 
-## A front end developer is aware of systems. They might be responsible for implementing a design system, or an icon system, or a coding style guide. They might have to create those systems themselves. They might need to document those systems.
+## A front end developer is aware of systems.
+They might be responsible for implementing a design system, or an icon system, or a coding style guide. They might have to create those systems themselves. They might need to document those systems.
 
 ## A front end developer is aware of devops. 
 They are writing and committing code along with every other coder on the project, so they need to adhere to the same setup as everyone else. If they didn't write the build system themselves, they know what it is, what it does, and what it is capable of. If they didn't set up deployment themselves, they know how to use it.

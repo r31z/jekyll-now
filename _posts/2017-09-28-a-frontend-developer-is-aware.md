@@ -48,8 +48,5 @@ That's just a handful of the things a great front end developer should be aware 
 
 All this, of course, on top of their own direct job. HTML, CSS, JavaScript, responsive design, libraries and frameworks, communication... this list is scary-long itself!
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
-
-![_config.yml]({{ site.baseurl }}/images/config.png)
 
 Originally posted by Chris Coyier ON JULY 8, 2016 [css-tricks](https://css-tricks.com/front-end-developer-aware/) on https://css-tricks.com

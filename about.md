@@ -4,12 +4,17 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Frontend blog articles (REMIX)
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+HTML, CSS, JavaScript posts
+I share what I learn 
+🖱️ Frontend developer 
+💻 Web content editor 
+🏊‍♀️ Amateur swimmer 
+👨‍👩‍👧 Family man
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[r31z@outlook.com](mailto:r31z@outlook.com)

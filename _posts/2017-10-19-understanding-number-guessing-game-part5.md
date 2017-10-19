@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Understanding Number Guessing Game part 6 (Conditionals)
+title: Understanding Number Guessing Game part 5 (Conditionals)
 categories: [Javascript]
 ---
 #### Conditionals
@@ -24,7 +24,7 @@ Line 6 appends the current userGuess value onto the end of the guesses paragraph
 The next block (lines 8–24 above) does a few checks:
 The first if(){ } checks whether the user's guess is equal to the randomNumber set at the top of our JavaScript. If it is, the player has guessed correctly and the game is won, so we show the player a congratulations message with a nice green color, clear the contents of the Low/High guess information box, and run a function called setGameOver(), which we'll discuss later.
 
-Now we've chained another test onto the end of the last one using an else if(){ } structure. This one checks whether this turn is the user's last turn. If it is, the program does the same thing as in the previous block, except with a game over message instead of a congratulations message.
+Now we've chained another test onto the end of the last one using an else if(){ } structure. This one checks whether this turn is the user's last turn. If it is, the program does the same thing as in the previous block, except with a game over message instead of a congratulations message..
 
 The final block chained onto the end of this code (the else { }) contains code that is only run if neither of the other two tests returns true (i.e. the player didn't guess right, but they have more guesses left). In this case we tell them they are wrong, then we perform another conditional test to check whether the guess was higher or lower than the answer, displaying a further message as appropriate to tell them higher or lower.
 

@@ -55,4 +55,4 @@ The next block (lines 8–24 above) does a few checks:
 
 The last three lines in the function (line 26–28 above) get us ready for the next guess to be submitted. We add 1 to the guessCount variable so the player uses up their turn (++ is an incrementation operation — increment by 1), and empty the value out of the form text field and focus it again, ready for the next guess to be entered.
 
-Continue to [part 5](https://reizariva-hale.github.io/understanding-number-guessing-game-part4/) where we also talk about Events.
+Continue to [part 5](https://reizariva-hale.github.io/understanding-number-guessing-game-part5/) where we also talk about Events.

@@ -40,6 +40,6 @@ I want you to create a simple guess the number type game. It should choose a ran
 #### 9. Once the game restarts, make sure the game logic and UI are completely reset, then go back to step 1.
 
 Let's see if I can now turn these steps into code, building up the example, and exploring JavaScript features as I go..
-
+View [the finished game](https://codepen.io/reizariva-hale/full/dVapVQ/) to get familiar with it before we begin.
     
 

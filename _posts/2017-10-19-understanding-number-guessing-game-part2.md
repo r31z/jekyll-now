@@ -37,4 +37,4 @@ The next two variables store references to the form text input and submit button
 	
 Our final two variables store a guess count of 1 (used to keep track of how many guesses the player has had), and a reference to a reset button that doesn't exist yet (but will later).
 
-Continue to Understanding Number Guessing Game [part 3]() where we talk about Functions.
+Continue to Understanding Number Guessing Game [part 3](https://reizariva-hale.github.io/understanding-number-guessing-game-part3/) where we talk about Functions.

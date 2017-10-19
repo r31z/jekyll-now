@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Understanding Number Guessing Game part 6 (Events)
+title: Understanding Number Guessing Game part 5 (Events)
 categories: [Javascript]
 ---
 #### Events

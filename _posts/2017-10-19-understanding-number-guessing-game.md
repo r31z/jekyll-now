@@ -42,9 +42,23 @@ I want you to create a simple guess the number type game. It should choose a ran
 Let's see if I can now turn these steps into code, building up the example, and exploring JavaScript features as I go..
 View [the finished game](https://codepen.io/reizariva-hale/full/dVapVQ/) to get familiar with it before we begin.
 
+Let's place the <script> element at the bottom of the HTML:
     
 	<script>
-
   	// Your JavaScript goes here
-
 	</script>
+
+#### Adding variables to store our data
+Let's get started. First of all, add the following lines inside the <script> element:
+		
+	var randomNumber = Math.floor(Math.random() * 100) + 1;
+
+	var guesses = document.querySelector('.guesses');
+	var lastResult = document.querySelector('.lastResult');
+	var lowOrHi = document.querySelector('.lowOrHi');
+
+	var guessSubmit = document.querySelector('.guessSubmit');
+	var guessField = document.querySelector('.guessField');
+
+	var guessCount = 1;
+	var resetButton;

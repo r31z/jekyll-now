@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Understanding Number Guessing Game
-categories: [Javascript]
+categories: [Javascript game]
 ---
 # Question:
 

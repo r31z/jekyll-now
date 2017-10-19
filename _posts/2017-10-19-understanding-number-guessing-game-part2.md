@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Understanding Number Guessing Game part 2 (variables)
+title: Understanding Number Guessing Game part 2 (Variables)
 categories: [Javascript]
 ---
 #### Adding variables to store our data - Understanding Number Guessing Game

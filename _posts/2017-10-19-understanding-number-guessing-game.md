@@ -48,17 +48,4 @@ Let's place the <script> element at the bottom of the HTML:
   	// Your JavaScript goes here
 	</script>
 
-#### Adding variables to store our data
-Let's get started. First of all, add the following lines inside the <script> element:
-		
-	var randomNumber = Math.floor(Math.random() * 100) + 1;
-
-	var guesses = document.querySelector('.guesses');
-	var lastResult = document.querySelector('.lastResult');
-	var lowOrHi = document.querySelector('.lowOrHi');
-
-	var guessSubmit = document.querySelector('.guessSubmit');
-	var guessField = document.querySelector('.guessField');
-
-	var guessCount = 1;
-	var resetButton;
+Continue to [part 2](https://reizariva-hale.github.io/understanding-number-guessing-game/)

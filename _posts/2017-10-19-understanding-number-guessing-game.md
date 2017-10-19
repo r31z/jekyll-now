@@ -48,4 +48,4 @@ Let's place the <script> element at the bottom of the HTML:
   	// Your JavaScript goes here
 	</script>
 
-Continue to [part 2](https://reizariva-hale.github.io/understanding-number-guessing-game/)
+Continue to [part 2](https://reizariva-hale.github.io/understanding-number-guessing-game-part2/) where we also talk about Variables.

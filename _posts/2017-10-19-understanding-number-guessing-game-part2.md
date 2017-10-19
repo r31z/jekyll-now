@@ -1,4 +1,4 @@
-#### Adding variables to store our data
+#### Adding variables to store our data - Understanding Number Guessing Game
 Let's get started. First of all, add the following lines inside the <script> element:
 		
 	var randomNumber = Math.floor(Math.random() * 100) + 1;
@@ -20,3 +20,16 @@ In our example:
 The first variable — randomNumber — is assigned a random number between 1 and 100, calculated using a mathematical algorithm.
 The next three variables are each made to store a reference to the results paragraphs in our HTML, and are used to insert values into the paragraphs later on in the code:
 	
+	<p class="guesses"></p>
+	<p class="lastResult"></p>
+	<p class="lowOrHi"></p>
+	
+The next two variables store references to the form text input and submit button and are used to control submitting the guess later on.
+	
+	<label for="guessField">Enter a guess: </label>
+	<input type="text" id="guessField" class="guessField">
+ 	<input type="submit" value="Submit guess" class="guessSubmit">
+	
+Our final two variables store a guess count of 1 (used to keep track of how many guesses the player has had), and a reference to a reset button that doesn't exist yet (but will later).
+
+Continue to Understanding Number Guessing Game [part 3]() where we talk about Functions.

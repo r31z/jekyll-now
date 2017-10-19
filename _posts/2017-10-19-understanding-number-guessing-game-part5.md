@@ -14,4 +14,4 @@ Here we are adding an event listener to the guessSubmit button. This is a method
 
 Try saving and refreshing your code now, and your example should now work, to a point. The only problem now is that if you guess the correct answer or run out of guesses, the game will break because we've not yet defined the setGameOver() function that is supposed to be run once the game is over. Let's add our missing code now and complete the example functionality.
 
-Continue to [part 7](https://reizariva-hale.github.io/understanding-number-guessing-game-part7/) where we also talk about finishing the game functionality.
+Continue to [part 6](https://reizariva-hale.github.io/understanding-number-guessing-game-part6/) where we also talk about finishing the game functionality.

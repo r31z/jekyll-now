@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Understanding Number Guessing Game
-categories: [javascript]
+categories: [Javascript]
 ---
 # Question:
 
@@ -20,26 +20,31 @@ I want you to create a simple guess the number type game. It should choose a ran
 
 ## hmm.. not sure if i can stil get this so, let's break it down into even simpler actionable tasks, in as much of a programmer mindset as possible:
 
-#### 1. Generate a random number between 1 and 100.
-#### 2. Record the turn number the player is on. Start it on 1.
-#### 3. Provide the player with a way to guess what the number is.
-#### 4. Once a guess has been submitted first record it somewhere so the user can see their previous guesses.
-#### 5. Next, check whether it is the correct number.
-#### 6. If it is correct:
+1. Generate a random number between 1 and 100.
+2. Record the turn number the player is on. Start it on 1.
+3. Provide the player with a way to guess what the number is.
+4. Once a guess has been submitted first record it somewhere so the user can see their previous guesses.
+5. Next, check whether it is the correct number.
+6. If it is correct:
 	1. Display congratulations message.
 	2. Stop the player from being able to enter more guesses (this would mess the game up).
 	3. Display control allowing the player to restart the game.
-#### 7. If it is wrong and the player has turns left:
+7. If it is wrong and the player has turns left:
 	1. Tell the player they are wrong.
 	2. Allow them to enter another guess.
 	3. Increment the turn number by 1.
-#### 8. If it is wrong and the player has no turns left:
+8. If it is wrong and the player has no turns left:
 	1. Tell the player it is game over.
 	2. Stop the player from being able to enter more guesses (this would mess the game up).
 	3. Display control allowing the player to restart the game.
-#### 9. Once the game restarts, make sure the game logic and UI are completely reset, then go back to step 1.
+9. Once the game restarts, make sure the game logic and UI are completely reset, then go back to step 1.
 
 Let's see if I can now turn these steps into code, building up the example, and exploring JavaScript features as I go..
 View [the finished game](https://codepen.io/reizariva-hale/full/dVapVQ/) to get familiar with it before we begin.
-    
 
+    
+	<script>
+
+  	// Your JavaScript goes here
+
+	</script>

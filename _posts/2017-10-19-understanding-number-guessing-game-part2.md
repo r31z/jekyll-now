@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Understanding Number Guessing Game part 2 (Variables)
-categories: [Javascript]
+categories: [Javascript game]
 ---
 #### Adding variables to store our data - Understanding Number Guessing Game
 Let's get started. First of all, add the following lines inside the <script> element:

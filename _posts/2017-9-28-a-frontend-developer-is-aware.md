@@ -50,4 +50,4 @@ That's just a handful of the things a great front end developer should be aware 
 All this, of course, on top of their own direct job. HTML, CSS, JavaScript, responsive design, libraries and frameworks, communication... this list is scary-long itself!
 
 
-Originally posted by Chris Coyier ON JULY 8, 2016 [css-tricks](https://css-tricks.com/front-end-developer-aware/) on https://css-tricks.com
+Originally posted by Chris Coyier ON JULY 8, 2016 on [css-tricks](https://css-tricks.com/front-end-developer-aware/).

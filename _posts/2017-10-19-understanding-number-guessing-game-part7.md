@@ -1,4 +1,8 @@
-
+---
+layout: post
+title: Understanding Number Guessing Game part 7 (Loops)
+categories: [Javascript game]
+---
 
 #### Loops
 One part of the above code that we need to take a more detailed look at is the for loop. Loops are a very important concept in programming, which allow you to keep running a piece of code over and over again, until a certain condition is met.

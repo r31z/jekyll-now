@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Understanding Number Guessing Game part 3 (Functions)
-categories: [Javascript]
+categories: [Javascript game]
 ---
 #### Functions
 Next, add the following below your previous JavaScript:	

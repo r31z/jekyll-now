@@ -308,7 +308,7 @@ Master Programmer
 		return(0);
 	}
 
-####Evolution of a Hacker
+#### Evolution of a Hacker
 
 Apprentice Hacker
 
@@ -341,7 +341,7 @@ Experienced Hacker
 	Hello, world.
 	^D
 	
-####Evolution of a Manager
+#### Evolution of a Manager
 
 Junior Manager
 

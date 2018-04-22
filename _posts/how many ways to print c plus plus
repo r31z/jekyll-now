@@ -19,7 +19,23 @@ First Year in College
    writeln('Hello World')
    end.
 
+Senior Year in College
 
+   (defun hello
+   (print
+   (cons 'Hello (list 'World))))
+
+New professional
+
+    #include
+    void main(void)
+    {
+      char *message[] = {"Hello ", "World"};
+      int i;
+      for(i = 0; i < 2; ++i)
+        printf("%s", message[i]);
+      printf("\n");
+     }
 
 
 

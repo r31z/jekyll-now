@@ -9,7 +9,7 @@ Passionate about learning & understanding JavaScript and all that frontend stuff
 ### More Information
 
 🖱️ Frontend developer
-💻 Web content editor 
+💻 Web Optimisation Specialist 
 🏊‍ Amateur swimmer 
 👨‍👩‍👧 Family man
 
